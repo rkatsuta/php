@@ -4,7 +4,8 @@
         "mockery/mockery": "0.7.*",
         "phpunit/dbunit": ">=1.2",
         "phpunit/phpunit-selenium": ">=1.2",
-        "phpunit/phpunit-story": "*"
+        "phpunit/phpunit-story": "*",
+        "slim/slim": "2.*"
     },
     "config": {
         "bin-dir": "/usr/local/bin/"
